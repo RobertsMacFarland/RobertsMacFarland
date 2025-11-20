@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Robert MacFarland - Quality and Process Improvement Consultant | Goal-Focused Delivery" width="800"/>
 </p>
+
 ## About Me
 With over 40 years of experience in technical leadership, project management, process optimization, and quality assurance, 
 I bring a proven track record of success within leading global organizations. My expertise lies in transforming complex 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Robert MacFarland - Quality and Process Improvement Consultant | Goal-Focused Delivery" width="800"/>
+  <img src="banner.png" alt="Robert MacFarland - Quality and Process Improvement Consultant | Goal-Focused Delivery" width="1000"/>
 </p>
 
 ## About Me
